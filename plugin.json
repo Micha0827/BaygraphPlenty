@@ -3,6 +3,6 @@
     "description"       :"My first plugin",
     "namespace"         :"HelloWorld",
     "author"            :"Your name",
-    "type"              :"template",
+    "type"              :"backend",
     "serviceProvider"   :null
 }
