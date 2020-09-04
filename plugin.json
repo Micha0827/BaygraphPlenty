@@ -1,8 +1,8 @@
 {
-    "name"              :"HelloWorld",
-    "description"       :"My first plugin",
-    "namespace"         :"HelloWorld",
-    "author"            :"Your name",
-    "type"              :"backend",
-    "serviceProvider"   :null
+    "name": "BaygraphBackend",
+    "description": "Baygraph Backend Plugin",
+    "namespace": "BaygraphView",
+    "author": "Timo Eckert",
+    "type": "backend",
+    "serviceProvider": "BaygraphView\\Providers\\BaygraphViewServiceProvider"
 }

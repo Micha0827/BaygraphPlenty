@@ -1,1 +1,2 @@
-# BaygraphPlenty
+# baygraph
+Baygraph Plugin Test
