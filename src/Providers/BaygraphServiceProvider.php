@@ -1,6 +1,6 @@
 <?php
  
-namespace Baygrap\Providers;
+namespace Baygraph\Providers;
  
 use Plenty\Plugin\ServiceProvider;
  
