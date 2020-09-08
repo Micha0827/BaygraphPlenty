@@ -8,6 +8,6 @@ class BaygraphViewServiceProvider extends ServiceProvider
 {
     public function register()
     {
- 
+			$this>getApplication()->register(BaygraphViewRouteServiceProvider::class); 
     }
 }
