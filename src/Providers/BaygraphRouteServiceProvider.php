@@ -9,6 +9,6 @@ class BaygraphViewRouteServiceProvider extends RouteServiceProvider
 {
 	public function map(Router $router)
 	{
-		$router->get('hello', 'BaygraphView\Controllers\ContentController@sayHello');
+		$router->get('hello-world', 'BaygraphView\Controllers\ContentController@sayHello');
 	}
 }
