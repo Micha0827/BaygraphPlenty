@@ -3,13 +3,13 @@
 namespace Baygraph\Providers;
 
 use Plenty\Plugin\RouteServiceProvider;
-use Plenty\Plenty\Routeing\Router;
+use Plenty\Plenty\Routing\Router;
 
 class BaygraphRouteServerProvider extends RouteServiceProvider
 {
 	public function map(Router $router)
 	{
-		$router->get('hello', 'Baygraph\Controllers\ContentController@sayHello');
+		$router->get('world', 'Baygraph\Controllers\ContentController@sayHello');
 	}
 
 }
