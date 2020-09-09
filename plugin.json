@@ -1,5 +1,5 @@
 {
-    "name": "Baygraph",
+    "name": "BaygraphBackend",
     "description": "Baygraph Backend Plugin",
     "namespace": "Baygraph",
     "author": "Timo Eckert",
