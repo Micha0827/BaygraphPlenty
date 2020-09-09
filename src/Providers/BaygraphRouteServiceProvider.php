@@ -3,7 +3,7 @@
 namespace Baygraph\Providers;
 
 use Plenty\Plugin\RouteServiceProvider;
-use Plenty\Plenty\Routing\Router;
+use Plenty\Plugin\Routing\Router;
 
 class BaygraphRouteServerProvider extends RouteServiceProvider
 {
