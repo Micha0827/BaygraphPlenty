@@ -5,12 +5,6 @@
         {
         "label": "Hello World",
         "menu": "start",
-        "urlKey": "hello-world",
-        "entryPoint": "index.html"
-        },
-        {
-        "label": "Test 234",
-        "menu": "start",
         "urlKey": "hello",
         "entryPoint": "index.html"
         }
